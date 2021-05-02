@@ -30,3 +30,7 @@ Any error, along with other details, caused anywhere in the system can directly 
 | **This is how dashboard looks**      | ![](https://github.com/amandesai01/Buglytics/blob/main/images/dash.png?raw=true)       |
 | **This is where you set custom webhooks**   |![](https://github.com/amandesai01/Buglytics/blob/main/images/webhook.png?raw=true)       |
 | **This is where you generate custom auth token based on requirements**   |![](https://github.com/amandesai01/Buglytics/blob/main/images/authtoken.png?raw=true)       |
+
+## Architecture :
+![](https://github.com/amandesai01/Buglytics-Server/blob/master/Docs/architecture.jpg?raw=true)
+
