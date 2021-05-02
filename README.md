@@ -1,15 +1,19 @@
 <h1 align="center">
-  <a name="logo" href="https://raw.githubusercontent.com/amandesai01/Buglytics/main/images/logo.png" alt="Bear Stone Smart Home" width="200"></a>
+  <img name="logo" src="https://raw.githubusercontent.com/amandesai01/Buglytics/main/images/logo.png" alt="Bear Stone Smart Home" width="400"></a>
 </h1>
 <h3 align="center">
 Centralized Bug Reporting System, for Modern De-Centralized Systems
 </h3>
 
-Buglytics is be a centralised bug reporting system, responsible to monitor different de-centralised systems working under single infrastructure.
+``Any error, along with other details, caused anywhere in the system can directly be streamed to Buglytics which will then trigger necessary triggers (configured by developer), push a notification to developers regarding error details and provide easy to use web interface for monitoring.``
 
-Any error, along with other details, caused anywhere in the system can directly be streamed to Buglytics which will then trigger necessary triggers (configured by developer), push a notification to developers regarding error details and provide easy to use web interface for monitoring.
+## Github Links of Components of this project:
 
-Project includes Native Python SDK, a web server for managing events and easy-to-use web interface.
+| Link | Tech-Stack |
+| :---------: | :---------: |
+| <a href="https://github.com/amandesai01/buglytics-server">Server</a> | Python(Flask) |
+| <a href="https://github.com/amandesai01/buglytics-server">Web Interface</a> | Vue (Nuxt.js) |
+| <a href="https://github.com/amandesai01/buglytics-pypi">Python Package</a> | Python |
 
 ## Features:
 
@@ -21,13 +25,8 @@ Project includes Native Python SDK, a web server for managing events and easy-to
 ## Screenshots :
 
 
-
-
-Server - Python(Flask)
-https://github.com/amandesai01/buglytics-server
-
-PyPI package:
-https://github.com/amandesai01/buglytics-pypi
-
-Frontend - Vue (Nuxt.js)
-https://github.com/amandesai01/Buglytics-Web
+| Description      | Screenshot |
+| :---------: | :---------: |
+| **This is how dashboard looks**      | ![](https://github.com/amandesai01/Buglytics/blob/main/images/dash.png?raw=true)       |
+| **This is where you set custom webhooks**   |![](https://github.com/amandesai01/Buglytics/blob/main/images/webhook.png?raw=true)       |
+| **This is where you generate custom auth token based on requirements**   |![](https://github.com/amandesai01/Buglytics/blob/main/images/authtoken.png?raw=true)       |
