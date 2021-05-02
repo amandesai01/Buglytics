@@ -12,7 +12,7 @@ Any error, along with other details, caused anywhere in the system can directly 
 | Link | Tech-Stack |
 | :---------: | :---------: |
 | <a href="https://github.com/amandesai01/buglytics-server">Server</a> | Python(Flask) |
-| <a href="https://github.com/amandesai01/buglytics-server">Web Interface</a> | Vue (Nuxt.js) |
+| <a href="https://github.com/amandesai01/buglytics-web">Web Interface</a> | Vue (Nuxt.js) |
 | <a href="https://github.com/amandesai01/buglytics-pypi">Python Package</a> | Python |
 
 ## Features:
