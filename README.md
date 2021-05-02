@@ -5,7 +5,7 @@
 Centralized Bug Reporting System, for Modern De-Centralized Systems
 </h3>
 
-``Any error, along with other details, caused anywhere in the system can directly be streamed to Buglytics which will then trigger necessary triggers (configured by developer), push a notification to developers regarding error details and provide easy to use web interface for monitoring.``
+Any error, along with other details, caused anywhere in the system can directly be streamed to Buglytics which will then trigger necessary triggers (configured by developer), push a notification to developers regarding error details and provide easy to use web interface for monitoring.
 
 ## Github Links of Components of this project:
 
